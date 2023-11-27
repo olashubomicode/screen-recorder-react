@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/screen-recorder-react/static/css/main.2bdfb9f4.css",
-    "main.js": "/screen-recorder-react/static/js/main.c6933463.js",
+    "main.js": "/screen-recorder-react/static/js/main.1122a5ec.js",
     "index.html": "/screen-recorder-react/index.html",
     "main.2bdfb9f4.css.map": "/screen-recorder-react/static/css/main.2bdfb9f4.css.map",
-    "main.c6933463.js.map": "/screen-recorder-react/static/js/main.c6933463.js.map"
+    "main.1122a5ec.js.map": "/screen-recorder-react/static/js/main.1122a5ec.js.map"
   },
   "entrypoints": [
     "static/css/main.2bdfb9f4.css",
-    "static/js/main.c6933463.js"
+    "static/js/main.1122a5ec.js"
   ]
 }
